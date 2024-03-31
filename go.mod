@@ -1,3 +1,3 @@
-module discovery
+module drumont/discovery
 
-go 1.22
+go 1.22.1
